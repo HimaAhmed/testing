@@ -1,1 +1,1 @@
-my name is GITHUB_USERNAME
+my name is GITHUB_USERNAM
